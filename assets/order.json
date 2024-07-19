@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "order_no": "#0001",
+            "date": "20 Apr 2024 09:30:10",
+            "name": "Sanjay",
+            "mobile": "9974598899",
+            "address": "Bopal, Ahmedabad, Gujarat 380058",
+            "status":"delivered",
+            "items": [
+                {"name": "Chana", "quantity": 5, "count": 2},
+                {"name": "Dal", "quantity": 3, "count": 1}
+              ]
+        },
+        {
+            "id": 2,
+            "order_no": "#0002",
+            "date": "21 Apr 2024 09:30:10",
+            "name": "Smit Patel",
+            "mobile": "6352729945",
+            "address": "Bopal, Ahmedabad, Gujarat 380058",
+            "status":"delivered",
+            "items": [
+                {"name": "Apple", "quantity": 3, "count": 1},
+                {"name": "Banana", "quantity": 5, "count": 1}
+              ]
+        },  
+        {
+            "id": 3,
+            "order_no": "#0003",
+            "date": "22 Apr 2024 09:30:10",
+            "name": "Umang Patel",
+            "mobile": "1234567890",
+            "address": "Bopal, Ahmedabad, Gujarat 380058",
+            "status":"pending",
+            "items": [
+                {"name": "Onion", "quantity": 10, "count": 2},
+                {"name": "Potato", "quantity":11, "count": 2}
+              ]
+        },
+        {
+            "id": 4,
+            "order_no": "#0004",
+            "date": "23 Apr 2024 09:30:10",
+            "name": "bhuroo",
+            "mobile": "6352729945",
+            "address": "Bopal, Ahmedabad, Gujarat 380058",
+            "status":"pending",
+            "items": [
+                {"name": "Oil-15Kg", "quantity": 1, "count": 1},
+                {"name": "Cold-Drinks", "quantity": 2, "count": 2}
+              ]
+        },
+        {
+            "id": 5,
+            "order_no": "#0005",
+            "date": "24 Apr 2024 09:30:10",
+            "name": "bhautik",
+            "mobile": "1234567890",
+            "address": "Bopal, Ahmedabad, Gujarat 380058",
+            "status":"pending",
+            "items": [
+                {"name": "Rice", "quantity": 4, "count": 1},
+                {"name": "Ghee", "quantity": 2, "count": 1}
+              ]
+        }
+    ]
+}
